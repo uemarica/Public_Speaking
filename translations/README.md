@@ -1,6 +1,6 @@
 # Translations of the Public_Speaking repository
 
-* Translations are contained in language-specific directories.
+* Translations are contained in language-specific directories
 * Each directory is named for the appropriate [language tag](https://en.wikipedia.org/wiki/Language_localisation)
 * Each directory should ideally contain translated versions of these files:
     * [README.md](https://github.com/vmbrasseur/Public_Speaking/blob/master/README.md): Do **not** include the lists of resources themselves, only the explanatory text around them. We do not want to update the resource list in multiple places each time one is added.
